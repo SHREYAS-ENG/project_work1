@@ -1,0 +1,14 @@
+<!DOCTPE html>
+<html>
+<head>
+<title>
+sample
+</title>
+</head>
+<body>
+<form>
+First name:<input type ="text" name = "first_name"/>
+last name:<input type = "text" name = "last_name" />
+</form>
+</body>
+</html>
