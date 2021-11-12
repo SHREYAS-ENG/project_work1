@@ -6,6 +6,8 @@ sample
 </title>
 </head>
 <body>
+fggff
+
 <form>
 First name:<input type ="text" name = "first_name"/>
 last name:<input type = "text" name = "last_name" />
